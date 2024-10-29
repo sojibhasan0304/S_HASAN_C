@@ -1,5 +1,5 @@
 # S_HASAN_C
-This is my first github code. 
+This is my first git Repository.  
 <br>
 Auther- SOJIB HASAN
 <br> 
